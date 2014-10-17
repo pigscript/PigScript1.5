@@ -12,7 +12,7 @@ How to draw:
 	1. Run the code or the .exe file.
 	2. Follow the instructions on the command line.
 
-Details about the command line options(to be finished...):
+Details about the command line options(to be completed...):
 	1. Draw a local picture
 
 	2. Draw a website picture
